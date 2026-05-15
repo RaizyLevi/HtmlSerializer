@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("HtmlSerializer")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dcd06110eb0366b694f60278972c5e3f5ab5b420")]
 [assembly: System.Reflection.AssemblyProductAttribute("HtmlSerializer")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HtmlSerializer")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
